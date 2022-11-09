@@ -1,5 +1,5 @@
 # Environmental Data Science Assignments
- A respoitory containing lab assignments for _GTECH 78518: Environmental Data Science
+ A respoitory containing lab assignments for GTECH 78518: Environmental Data Science
 
 <br> [Lab 2: Basic Python](/labs/02_BasicPython.ipynb) </br>
 <br> [Lab 3a: NumPy](/labs/03_numpy.ipynb) </br>
