@@ -7,4 +7,5 @@
 <br> [Lab 4: Data Visualization](/labs/04_data_visualization.ipynb) </br>
 <br> [Midterm Exam: MillionTreeNYC Air Quality Analysis](/midterm/midterm.ipynb) </br>
 <br> [Lab 8: Raster Geospatial Data Analysis](/labs/08_raster_analysis.ipynb) </br>
-<br> [Lab 0: Raster Geospatgial Data Analysis II](/labs/09_raster_analysis.ipynb) </br>
+<br> [Lab 9: Raster Geospatgial Data Analysis II](/labs/09_raster_analysis.ipynb) </br>
+<br> [Lab 10: Lidar Data Processing](/labs/10_Lidar.ipynb) </br> 
